@@ -1,5 +1,5 @@
 # 👋 About Me:
-🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Python, React, C#
+🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Python, React, C# <br>💻[My personal website](www.emmanuelsayoto.com)
 
 
 ## 🌐 Socials:
